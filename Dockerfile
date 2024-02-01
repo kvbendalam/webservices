@@ -1,4 +1,4 @@
-FROM golang:1.19.0
+FROM golang:1.22rc2
 
 WORKDIR /usr/src/app
 
